@@ -1,0 +1,5 @@
+# debug version folder
+Debug/
+TestExcercise/Debug/
+# Intellisense PreCompiled Headers
+ipch/
